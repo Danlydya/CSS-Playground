@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Shizuru&display=swap');
+
+body {
+    background-color: rgb(252, 236, 216);
+}
+
+.ingridients {
+    border:1px solid rgb(252, 236, 216);
+    width:50%;
+    margin: 1rem;
+}
+.ingridients-table {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    color:rgb(139, 104, 56);
+}
+
+.instructions {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color:rgb(139, 104, 56);
+}
+.heading {
+    text-align: center;
+    font-family: 'Shizuru', cursive;
+    font-size: 2rem;
+    color:rgb(71, 50, 19);
+}
+
+.img {
+    text-align: center;
+}
+
+.footer {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color:rgb(71, 50, 19);
+}
