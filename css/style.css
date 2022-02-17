@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Shizuru&display=swap');
+
+body {
+    background-color: rgb(248, 240, 237);
+}
+
+.heading {
+    text-align:center
+}
+
+.playground-heading {
+    color:blueviolet;
+    font-family: 'Shizuru', cursive;
+    font-size: 5rem ;
+}
+    
+.main {
+    border:3px solid grey;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.main div {
+    height:200px;
+    width:200px;
+    border:1px solid purple;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#purple {
+    border-color: purple;
+}
+
+#blue {
+    border-color: blue;
+}
+
+#red {
+    border-color: red;
+}
+
+
+
+.footer {
+    text-align:center;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 2rem;
+    color:brown
+}
+
+
+
+
